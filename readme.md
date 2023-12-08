@@ -1,4 +1,4 @@
-# Keyboard Layout Switcher
+# VSCode Keyboard Settings Switcher
 
 This is a command-line tool for switching keyboard layouts in a vscode settings.json
 file. It will add the key bindings to the VsCodeVim normal and visual settings to
